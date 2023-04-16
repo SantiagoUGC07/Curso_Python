@@ -1,0 +1,355 @@
+﻿,,,,,,,,,END TO END MANAGEMENT,,,,,,,,
+,TICKETS ABRIL TELECOM,,,,,,,,,,,,,,,,
+,Registros totales : 50,,,,,,,,,,,,,,,,
+,"Hora de creación : From Abril 01, 2022 12:00 AM To Abril 30, 2022 11:59 PM",,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,ID de la solicitud,Solicitante,Categoría,Subcategoría,Asunto,Descripción,Hora de creación,Hora de finalización,Estado,,,,,,,,
+,2255101,GOMEZ HERNANDEZ DIEGO,TELECOM,PERMISOS DE PUERTOS.ALTA,"Buenas noches, favor de dar de alta los permisos solicitados...","Buenas noches, favor de dar de alta los permisos solicitados. Se adjunta relacion de permisos.",jueves 28 de abril de 2022,jueves 28 de abril de 2022,Cerrado,,,,,,,,
+,2255084,BARRON GARCIA GABRIELA,TELECOM,VPN SITE TO SITE.ALTA,Hola buenas tardes solicito permiso para ver la siguiente ru...,"Hola buenas tardes solicito permiso para ver la siguiente ruta: \\10.253.2.241\fandelicarga 
+desde mi equipo.
+El motivo se debe a carga de pruebas en ambiente de PY-Fandeli en el que actualmente me encuentro participando con el nombre del proyecto #782: Conciliación Bancaria Integración Cuentas",jueves 28 de abril de 2022,viernes 29 de abril de 2022,Cerrado,,,,,,,,
+,2255070,QUIROZ CHAVARIN JORGE,TELECOM,PERMISOS DE INTERNET.ALTA,"Buena tarde Telecom,    Solicito de su valioso apoyo para qu...","Buena tarde Telecom,
+
+Solicito de su valioso apoyo para que los servidores que se mencionan en la lista tengan salida a internet ya que se siguen configurando los aplicativos para poder ser liberados a produccion, el tiempo que se requiere de internet son 15 días para el cliente Fandeli, por lo cual se le estaria quitando el acceso a internet el día 13 de Mayo.
+
+SVNOCSAC04.FANDELI.NET             10.253.2.238 
+SVNOCMINITAB01.FANDELI.NET     10.253.2.239 
+SVNOCMINITAB02.FANDELI.NET     10.253.2.245 
+SVNOCSAC01.FANDELI.NET             10.253.2.195 
+SVNOCSAC02.FANDELI.NET             10.253.2.221 
+
+Saludos.",jueves 28 de abril de 2022,jueves 28 de abril de 2022,Cerrado,,,,,,,,
+,2255030,LOPEZ CASA REAL  RICARDO,SERVICIO DE CNC,USUARIOS/ROLES,Buenas tardes por este medio solicito su apoyo para poder te...,"Buenas tardes por este medio solicito su apoyo para poder tener usuario de solo lectura a las bases de datos por SQL a los ambientes de Productivo y PY
+
+quedo a sus ordenes
+",miércoles 27 de abril de 2022,martes 23 de agosto de 2022,Cerrado,,,,,,,,
+,2254983,CRUZ GUTIERREZ VICTOR ,TELECOM,NAT DE PUERTOS.ALTA,"Buenas tardes,  Solicito de su apoyo para realizar los sigui...","Buenas tardes,
+Solicito de su apoyo para realizar los siguientes NAT´s, el cual será utilizado para el correo de Terra Energía y Terra Petróleos por el nuevo direccionamiento de BGP POP3,IMAP,HTTP.HTTPS.
+
+1.------ Grupo Terra ENERGIA
+Origen:
+181.224.45.51
+Destino:
+10.194.20.151
+
+Puertos:
+80/443/995/993/465/1000
+
+2.---------- Grupo Terra PETROLEOS
+Origen:
+181.224.44.51
+Destino:
+10.194.20.152
+
+Puertos:
+80/443/995/993/465/1000
+",martes 26 de abril de 2022,miércoles 27 de abril de 2022,Cerrado,,,,,,,,
+,2254982,CRUZ GUTIERREZ VICTOR ,TELECOM,NAT DE PUERTOS.ALTA,"Buenas tardes,  Solicito de su apoyo para realizar los sigui...","Buenas tardes,
+Solicito de su apoyo para realizar los siguientes NAT´s, el cual será utilizado para el correo de Terra Energía y Terra Petróleos por el nuevo direccionamiento de BGP para SMTP.
+
+1.------ Grupo Terra ENERGIA
+Origen:
+181.224.45.51
+Destino:
+10.194.20.50
+Puerto:
+25
+
+2.---------- Grupo Terra PETROLEOS
+Origen:
+181.224.44.51
+Destino:
+10.194.20.50
+Puerto:
+25
+",martes 26 de abril de 2022,miércoles 27 de abril de 2022,Cerrado,,,,,,,,
+,2254953,DE LA O NAVA JOSE,CONTACT CENTER,INSTALACIÓN DE SOFTWARE,"Hola buen día, me comunico para solicitar un usuario de VPN...","Hola buen día, me comunico para solicitar un usuario de VPN.",martes 26 de abril de 2022,martes 26 de abril de 2022,Cerrado,,,,,,,,
+,2254942,LOPEZ GARCIA CARLOS,TELECOM,PERMISOS DE INTERNET.ALTA,Me ayudan para que el servdir 10.253.2.142 pueda llegar a la...,"Me ayudan para que el servdir 10.253.2.142 pueda llegar a las siguientes URL, por favor .
+https://www.google.com/recaptcha/
+https://recaptcha.google.com/recaptcha/
+
+",martes 26 de abril de 2022,jueves 28 de abril de 2022,Cerrado,,,,,,,,
+,2254930,JIMENEZ GALINDO FRANCISCO,TELECOM,PERMISOS DE PUERTOS.ALTA,"Me ayudan a que  desde la vpn de amvidals, vmbarajas le pued...","Me ayudan a que  desde la vpn de amvidals, vmbarajas le puedan llegar a esta url 
+
+https://vsrixtixlg01ete.hq.endtoend.com.mx/login?loginUrl=%2Findex
+",martes 26 de abril de 2022,martes 26 de abril de 2022,Cerrado,,,,,,,,
+,2254893,CRUZ GONZALEZ ALEXIS,TELECOM,PERMISOS DE PUERTOS.ALTA,"Hola, buenas tardes se solicita el siguiente permiso de comu...","Hola, buenas tardes se solicita el siguiente permiso de comunicación
+
+IP ORIGEN                                IP DESTINO          PUERTO        DESCRIPCION
+Balanceador Netscaler              10.254.3.8          8109          Ferreterias SmartBusinesPY
+Balanceador Netscaler              10.254.3.8          8108          Ferreterias SmartBusinesBackPY",lunes 25 de abril de 2022,lunes 25 de abril de 2022,Cerrado,,,,,,,,
+,2254860,TREVIÑO GONZALEZ JULIO CESAR,SERVICIO DE TELECOM,BAJA DE VPN,Buen día.  No se logra alcanzar la conexión desde ningun s...,"Buen día.
+No se logra alcanzar la conexión desde ningun segmento de santa rosa, no podemos llegar a los servers en End to End.
+Ni por remote desktop, ni llegamos por ping ni nada.
+Saludos.",lunes 25 de abril de 2022,jueves 12 de mayo de 2022,Cerrado,,,,,,,,
+,2254846,GOMEZ HERNANDEZ DIEGO,TELECOM,PERMISOS DE PUERTOS.ALTA,"Buenas noches, nos ayudan a realizar los siguientes permisos...","Buenas noches, nos ayudan a realizar los siguientes permisos.
+Se adjunta imagen de permisos.",viernes 22 de abril de 2022,viernes 22 de abril de 2022,Cerrado,,,,,,,,
+,2254797,HERNANDEZ FLORES ROCIO,CONTACT CENTER,CONTACT CENTER.ERRORES,Apoyo en revisar las comunicaciones debido a que 5 clientes reportan intermitencia en el servicio,"Buena tarde solicito el apoyo en revisar las comunicaciones debido a que 5 clientes reportan intermitencia en los servicios,  entre los horarios de 12:30 y  5:00 pm reportaron los clientes que no podian accesar a los portales y servicios de JDE, posterior a una sesion para validar si sus IP's estaban bloqueadas o revision de sus enlaces de VPN, en conjunto con ellos indicaron que los portales ya se volvian a ver sin problema, sin hacer ajuste alguno en los mismos. Los clientes son: Recubre, Grupo Terra, Hame, Eutectic y Pasiega",jueves 21 de abril de 2022,viernes 22 de abril de 2022,Cerrado,,,,,,,,
+,2254775,SUCURSAL PASIEGA,SERVICIO DE DESARROLLO JDE,HALLAZGO/BUG DE DESARROLLO,"NO TENGO ACCESO A JDE, SOLO EN PASIEGA LEON NO TENEMOS ACCES...","NO TENGO ACCESO A JDE, SOLO EN PASIEGA LEON NO TENEMOS ACCESO, PARECE SER UN BLOQUEO, ME AYUDAN A VALIDAR SI NO ESTA BLOQUEADA NUESTRA IP PUBLICA, YA REVISE MI RED Y NO TENGO EL PORTAL BLOQUEADO, SOLO ES EL JDE, SI TENEMOS ACCESO NORMAL A POS ",jueves 21 de abril de 2022,jueves 21 de abril de 2022,Cerrado,,,,,,,,
+,2254774,ROSARIO GARCIA FELIPE,TELECOM,PERMISOS DE PUERTOS.ALTA,Buen día se requieren los siguientes permisos para firewall...,"Buen día se requieren los siguientes permisos para firewall de Ixtlahuaca
+
+IP ORIGEN                           IP DESTINO        PUERTO      DESCRIPCION
+Balanceador Netscaler       10.254.7.211       8282         GT WAU RDP
+
+Saludos y gracias.",jueves 21 de abril de 2022,jueves 21 de abril de 2022,Cerrado,,,,,,,,
+,2254772,ALVAREZ DECIGA CHRISTIAN,SERVICIO DE DBA,REVISIÓN DE PERFORMANCE DE LA BASE DE DATOS,No se puede ingresar a POS las bases de datos de pos y el sistema de JD edwards esta muy lento ,No se puede ingresar a POS manda error de conexion  y el sistema de JD edwards esta muy lento ,jueves 21 de abril de 2022,jueves 19 de mayo de 2022,Cerrado,,,,,,,,
+,2254644,HERNANDEZ RAMOS JESSICA,TELECOM,VPN.ALTA,Buenos dias   solicito la alta de VPN ya que soy de nuevo in...,"Buenos dias 
+solicito la alta de VPN ya que soy de nuevo ingreso:
+ jhernandez@endtoend.com.mx  
+Area Contact center
+
+Quedo pendiente a sus comentarios
+Saludos",martes 19 de abril de 2022,martes 19 de abril de 2022,Cerrado,,,,,,,,
+,2254631,JIMENEZ GALINDO FRANCISCO,TELECOM,CLIENTES DE VPN.BAJA,Buenos dias favor de dar de baja las siguientes vpn     Emor...,"Buenos dias favor de dar de baja las siguientes vpn 
+
+Emorales, mamedina, diangeles, rjrojas, accruz, egonzalez, jmcovarrubias",martes 19 de abril de 2022,martes 19 de abril de 2022,Cerrado,,,,,,,,
+,2254617,PONCE DE LEON ERICK,PETROLEOS,SERVICIO DE TELECOM.PERMISOS DE PUERTOS,"Buenas tardes, por favor su apoyo para habilitar el trafico ...","Buenas tardes, por favor su apoyo para habilitar el trafico de la VPN ETE México con SPS Honduras, necesitan utilizar el programa de ventanas de carga desde la red: 172.22.101.0/24  necesitan conectarse a la IP 10.252.7.204
+
+Gracias!!!
+",lunes 18 de abril de 2022,lunes 18 de abril de 2022,Cerrado,,,,,,,,
+,2254575,GOMEZ HERNANDEZ DIEGO,TELECOM,PERMISOS DE INTERNET.ALTA,"Buenos dias, por medio de este ticket solicito deshabilitar ...","Buenos dias, por medio de este ticket solicito deshabilitar los permisos de internet solicitados para las ips: 10.253.2.195, 10.253.2.221. y habilitar internet en las siguientes ips:  10.253.1.17, 10.253.1.18 ya que fueron reemplazadas. Se requiere para configuraciones que esta aplicando el cliente por 1 mes.
+Saludos.",lunes 18 de abril de 2022,lunes 18 de abril de 2022,Cerrado,,,,,,,,
+,2254566,LOPEZ GARCIA CARLOS,TELECOM,PERMISOS DE PUERTOS.ALTA,Buen día:    Me ayudan con este permiso para el servidor de...,"Buen día:
+
+Me ayudan con este permiso para el servidor de apps de Recubre QA, por favor.
+
+Saludos",lunes 18 de abril de 2022,lunes 18 de abril de 2022,Cerrado,,,,,,,,
+,2254546,CRUZ GUTIERREZ VICTOR ,TELECOM,PERMISOS DE PUERTOS.ALTA,"Buenas Tardes, solicito de su apoyo para dar los siguientes ...","Buenas Tardes, solicito de su apoyo para dar los siguientes permisos de comunicación para envío de alertas de IDRAC",jueves 14 de abril de 2022,viernes 15 de abril de 2022,Cerrado,,,,,,,,
+,2254531,GOMEZ HERNANDEZ DIEGO,TELECOM,REGLA DE ACCESO EN FW.ALTA,"Buenas tardes Telecom, solicito de su apoyo para compartirno...","Buenas tardes Telecom, solicito de su apoyo para compartirnos el listado de URL´s que tienen permitido el acceso a internet en el FW para todos los clientes y servidores de end to end. Si tienen duda quedamos atentos a los comentarios.",miércoles 13 de abril de 2022,viernes 17 de junio de 2022,Cerrado,,,,,,,,
+,2254493,ROSARIO GARCIA FELIPE,TELECOM,PERMISOS DE PUERTOS.ALTA,Buen día.  Se requieren los siguientes permisos para firewa...,"Buen día.
+Se requieren los siguientes permisos para firewall de Ixtlahuaca:
+
+IP ORIGEN                               IP DESTINO        PUERTO      DESCRIPCION
+Balanceador Netscaler           10.253.3.43         3389         RDP JDE
+Balanceador Netscaler           10.253.9.66         3389         RDP JDE
+Balanceador Netscaler           10.253.6.214       3389         RDP JDE
+Balanceador Netscaler		10.253.7.240       3389         RDP JDE
+Balanceador Netscaler		10.253.7.242       3389         RDP JDE
+Balanceador Netscaler           10.253.8.71         3389         RDP JDE
+Balanceador Netscaler		10.253.7.243       3389         RDP JDE
+Balanceador Netscaler		10.253.7.251       3389         RDP JDE
+Balanceador Netscaler		10.253.4.102       3389         RDP JDE
+
+Saludos y gracias.
+
+",martes 12 de abril de 2022,martes 12 de abril de 2022,Cerrado,,,,,,,,
+,2254485,ARCE LEYVA LUIS,TELECOM,CLIENTES DE VPN.ALTA,Hola me podrian apoyar con una vpn a  Ixtlahuaca  adjunto Vo...,Hola me podrian apoyar con una vpn a  Ixtlahuaca  adjunto VoBo,martes 12 de abril de 2022,martes 12 de abril de 2022,Cerrado,,,,,,,,
+,2254465,ROSAS HERNANDEZ JONATHAN,SERVICIO DE TELECOM,MODIFICACIÓN DE VPN,Buen día.    Se tienen falla en la VPN de Fandeli Planta 1 ...,"Buen día.
+
+Se tienen falla en la VPN de Fandeli Planta 1 debido a que se encuentra inactiva, me ayudan con su validación.
+
+Saludos.",martes 12 de abril de 2022,miércoles 13 de abril de 2022,Cerrado,,,,,,,,
+,2254434,VIDALS HERNANDEZ AMERICA,TELECOM,PERMISOS DE PUERTOS.ALTA,"Buenas tardes, favor de apoyarnos con otorgar los permisos q...","Buenas tardes, favor de apoyarnos con otorgar los permisos que se detallan en el adjunto para poder realizar la comunicación entre servidores de Demo JD Edwards.
+
+Gracias.
+
+Saludos.",lunes 11 de abril de 2022,lunes 11 de abril de 2022,Cerrado,,,,,,,,
+,2254433,VIDALS HERNANDEZ AMERICA,TELECOM,PERMISOS DE PUERTOS.ALTA,Buenas tardes Favor de apoyarnos a otorgar los siguientes pe...,"Buenas tardes Favor de apoyarnos a otorgar los siguientes permisos para establecer comunicación entre los servidores de DEMO ETE.
+
+Muchas gracias.
+
+Saludos.",lunes 11 de abril de 2022,lunes 11 de abril de 2022,Cerrado,,,,,,,,
+,2254426,RODRIGUEZ ORDAZ IGNACIO GUSTAVO,TELECOM,PERMISOS DE PUERTOS.ALTA,Reporte de sitios de navegacion ,"Buenos días
+
+Favor de generar un reporte de los sitios que acceden las IPs mostradas en color amarillo tomadas del archivo adjunto.
+
+Saludos
+",lunes 11 de abril de 2022,lunes 11 de abril de 2022,Cerrado,,,,,,,,
+,2254419,COJON  MARVIN,PETROLEOS,SERVICIO DE TELECOM.ALTA DE VPN,Buen dia. Favor crear usuario para VPN Forticlient al usuari...,"Buen dia. Favor crear usuario para VPN Forticlient al usuario.
+
+Jordi Gonzalez
+jordi.gonzalez@uno-terra.com
+Tel. 22851400 ext. 1901
+",lunes 11 de abril de 2022,lunes 11 de abril de 2022,Cerrado,,,,,,,,
+,2254388,CRUZ GONZALEZ ALEXIS,TELECOM,NAT DE PUERTOS.ALTA,"Hola, buenas tardes se solicita la siguiente NAT para servic...","Hola, buenas tardes se solicita la siguiente NAT para servicio BGP
+
+IP Publica	         NAT / IP DMZ	        Servicio	                                                                  Puertos
+181.224.44.101	10.194.20.101	Publicaciones ENDTOEND – endtoend.com.mx	  80 / 443
+181.224.45.81	10.194.20.81	        Publicaciones ENDTOEND -  ete.mx	                  80 / 443
+",viernes 8 de abril de 2022,viernes 8 de abril de 2022,Cerrado,,,,,,,,
+,2254386,CRUZ GUTIERREZ VICTOR ,TELECOM,NAT DE PUERTOS.ALTA,"Buenas tardes, solicito de su apoyo para generar los siguien...","Buenas tardes, solicito de su apoyo para generar los siguientes Nats, son nuevos direccionamiento de BGP para SMTP.
+
+Origen:
+181.224.44.50
+181.224.45.50
+
+Destino:
+10.194.20.50
+
+Puerto:
+25",viernes 8 de abril de 2022,viernes 8 de abril de 2022,Cerrado,,,,,,,,
+,2254342,GOMEZ HERNANDEZ DIEGO,TELECOM,PERMISOS DE PUERTOS.ALTA,"Buenas tardes,  solicitamos de su apoyo para dar de alta los...","Buenas tardes,  solicitamos de su apoyo para dar de alta los siguientes permisos.
+Se requiere para migracion de servidores CAM.
+Se adjunta archivo.",jueves 7 de abril de 2022,jueves 7 de abril de 2022,Cerrado,,,,,,,,
+,2254314,NAVAS EDVIN,PETROLEOS,SERVICIO DE TELECOM.PERMISOS DE INTERNET,"Buen día, solicito habilitar la navegación de internet en ...","Buen día, solicito habilitar la navegación de internet en el servidor 10.253.7.250 (gtm-s-01504) para descargar y desplegar una imagen Docker en este servidor.",jueves 7 de abril de 2022,jueves 7 de abril de 2022,Cerrado,,,,,,,,
+,2254305,ROSAS HERNANDEZ JONATHAN,SERVICIO DE TELECOM,MODIFICACIÓN DE VPN,"Buen día,     Estamos presentando intermitencias entre sit...","Buen día,
+ 
+Estamos presentando intermitencias entre sitios de TLA y IXTLA, al parecer tenemos fallas en los servicios de Alestra y se solicita urgente realizar el cambio de peer secundario al primario.
+ 
+Ya que todos los servicios FANDELI se cortan y se tiene intermitencia.
+ 
+Saludos.
+ 
+ 
+ 
+ ",jueves 7 de abril de 2022,jueves 7 de abril de 2022,Cerrado,,,,,,,,
+,2254288,CRUZ GONZALEZ ALEXIS,TELECOM,PERMISOS DE PUERTOS.ALTA,"Hola, buenas tardes.    Se solicitan los siguientes permisos...","Hola, buenas tardes.
+
+Se solicitan los siguientes permisos.
+
+IP ORIGEN                                  IP DESTINO          PUERTO        DESCRIPCION
+Balanceador Netscaler              10.253.2.91          3389            RDP CAM FACTIURACIÓN04
+Balanceador Netscaler              10.253.2.92          3389            RDP CAM FACTIURACIÓN05",miércoles 6 de abril de 2022,miércoles 6 de abril de 2022,Cerrado,,,,,,,,
+,2254277,QUIROZ CHAVARIN JORGE,TELECOM,PERMISOS DE PUERTOS.CAMBIO,"Buena tarde Telecom,    Requiero de su apoyo para que por fa...","Buena tarde Telecom,
+
+Requiero de su apoyo para que por favor se le quite el internet libre al siguiente servidor, 10.253.2.82, a cambio se requiere que se le de salia a las siguientes url.
+
+smtp.gloria.com.mx 587 
+pop.gloria.com.mx 995 
+https://cam-service-desk.endtoend.com.mx/pro_users/login
+
+Saludos.",miércoles 6 de abril de 2022,miércoles 6 de abril de 2022,Cerrado,,,,,,,,
+,2254269,ROJAS HERNANDEZ RODRIGO ,TELECOM,PERMISOS DE PUERTOS.ALTA,"Buen dia,  Me podrian apoyar para que estas dos IP'S se pued...","Buen dia,
+Me podrian apoyar para que estas dos IP'S se puedan comunicar.
+Saludos!!!",miércoles 6 de abril de 2022,martes 3 de mayo de 2022,Cerrado,,,,,,,,
+,2254265,RODRIGUEZ ORDAZ IGNACIO GUSTAVO,TELECOM,PERMISOS DE INTERNET.ALTA,Reglas de acceso para navegacion internet ,"Buenos días
+
+Se solicita de su apoyo para obtener las Reglas de acceso para navegacion internet  para los segmentos de Cremería Americana.
+
+Quedo a tento a su pronta respuesta.
+
+Saludos",miércoles 6 de abril de 2022,miércoles 6 de abril de 2022,Cerrado,,,,,,,,
+,2254257,JIMENEZ GALINDO FRANCISCO,TELECOM,PERMISOS DE PUERTOS.BAJA,Favor de  bloquear los siguientes paises para el acceso a la...,"Favor de  bloquear los siguientes paises para el acceso a las URL de End To End 
+
+srccountry=""Bosnia and Herzegovina""
+srccountry=Denmark
+srccountry=Nepal
+srccountry=""Czech Republic""
+srccountry=""Hong Kong""
+srccountry=""Iran, Islamic Republic of""
+srccountry=""Korea, Republic of""
+srccountry=""Moldova, Republic of""
+srccountry=""New Zealand""
+srccountry=""Palestinian Territory""
+srccountry=""Russian Federation""
+srccountry=""South Africa""
+srccountry=""Sri Lanka""
+srccountry=""Tanzania, United Republic of""
+srccountry=""United Kingdom""
+srccountry=Australia
+srccountry=Austria
+srccountry=Bahrain
+srccountry=Bangladesh
+srccountry=Belgium
+srccountry=Bulgaria
+srccountry=China
+srccountry=Egypt
+srccountry=Finland
+srccountry=France
+srccountry=Georgia
+srccountry=Germany
+srccountry=Greece
+rccountry=Hungary
+srccountry=India
+srccountry=Indonesia
+srccountry=Ireland
+srccountry=Israel
+srccountry=Italy
+srccountry=Japan
+srccountry=Kazakhstan
+srccountry=Kenya
+srccountry=Lithuania
+srccountry=Luxembourg
+srccountry=Mongolia
+srccountry=Morocco
+srccountry=Netherlands
+srccountry=Norway
+srccountry=Poland
+srccountry=Portugal
+srccountry=Reserved
+srccountry=Romania
+srccountry=Serbia
+srccountry=Singapore
+srccountry=Slovakia
+srccountry=Somalia
+srccountry=Spain
+srccountry=Sweden
+srccountry=Switzerland
+srccountry=Taiwan
+srccountry=Thailand
+srccountry=Tunisia
+srccountry=Turkey
+srccountry=Ukraine
+srccountry=Vietnam",martes 5 de abril de 2022,martes 26 de abril de 2022,Cerrado,,,,,,,,
+,2254250,GOMEZ HERNANDEZ DIEGO,TELECOM,PERMISOS DE PUERTOS.ALTA,"Buenas tardes, favor de otorgar los siguientes permisos urge...","Buenas tardes, favor de otorgar los siguientes permisos urgentes:
+
+Se adjunta documento de permisos..",martes 5 de abril de 2022,martes 5 de abril de 2022,Cerrado,,,,,,,,
+,2254221,SOBERANIS JORGE,PETROLEOS,SERVICIO DE TELECOM.ALTA DE VPN,Favor de crear usuario para vpn forticlient a David Mayorga ...,Favor de crear usuario para vpn forticlient a David Mayorga (dmayorga@corporaciongrupoterra.com),martes 5 de abril de 2022,martes 5 de abril de 2022,Cerrado,,,,,,,,
+,2254177,CRUZ GUTIERREZ VICTOR ,TELECOM,NAT DE PUERTOS.ALTA,"Buenas noches, solicito de su apoyo para generar el siguient...","Buenas noches, solicito de su apoyo para generar el siguiente NAT,  se requiere para el aplicativo Envoy de Grupo Terra.
+
+Solicito de su apoyo para quitar está configuración a estás IP´s de Favor, se hizo un cambio.
+Origen:
+181.224.44.51
+181.224.45.51
+
+Destino:
+10.253.7.215
+
+Puerto: 21
+
+La configuración del NAT serán a estás IP´s por favor.
+
+Origen:
+181.224.44.112
+181.224.45.112
+
+Destino:
+10.253.7.215
+
+Puerto : 21",lunes 4 de abril de 2022,martes 5 de abril de 2022,Cerrado,,,,,,,,
+,2254140,RODRIGUEZ DONIZ EDUARDO,CONTACT CENTER,INSTALACIÓN DE SOFTWARE,"Buenas tardes, solicito credenciales de acceso para VPN Ixtl...","Buenas tardes, solicito credenciales de acceso para VPN Ixtlahuaca, adjunto VoBo de jefe directo.
+
+Credenciales de TeamViewer en caso de ser necesarias:
+
+- ID: 610828627
+- Password: 1bi8i5dx",lunes 4 de abril de 2022,lunes 4 de abril de 2022,Cerrado,,,,,,,,
+,2254137,MORALES RUIZ FORTINO,TELECOM,PERMISOS DE INTERNET.ALTA,Permiso de internet desde la IP 10.253.4.111 hacia la URL http://rubyinstaller.org/downloads/,Buena tarde solicito su apoyo para dar permiso por 1 semana a la IP 10.253.4.111 hacia la URL http://rubyinstaller.org/downloads/ para instalar paqueteria de oracle.,lunes 4 de abril de 2022,lunes 4 de abril de 2022,Cerrado,,,,,,,,
+,2254085,QUIROZ CHAVARIN JORGE,TELECOM,PERMISOS DE INTERNET.BAJA,"Buena tarde Telecom,    Me ayudan a dar de baja el internet ...","Buena tarde Telecom,
+
+Me ayudan a dar de baja el internet en los siguientes equipo por favor.
+
+10.253.1.17 
+10.253.1.18
+10.253.1.19
+10.253.1.20
+10.253.1.21
+10.253.1.22 
+10.253.1.23
+
+Saludos.",viernes 1 de abril de 2022,viernes 1 de abril de 2022,Cerrado,,,,,,,,
+,2254084,QUIROZ CHAVARIN JORGE,TELECOM,PERMISOS DE PUERTOS.ALTA,"Buena tarde,    Me ayudan a darle salida a internet de maner...","Buena tarde,
+
+Me ayudan a darle salida a internet de manera temporal solo por 10 dias para que el cliente Fandeli pueda realizar la configuracion de sus aplicaciones.
+
+Saludos.",viernes 1 de abril de 2022,viernes 1 de abril de 2022,Cerrado,,,,,,,,
+,2254081,VIDALS HERNANDEZ AMERICA,TELECOM,PERMISOS DE INTERNET.ALTA,"Buenas tardes, solicito de su apoyo para otorgar por el día...","Buenas tardes, solicito de su apoyo para otorgar por el día de hoy únicamente 1 de abril salida a internet libre para el servidor 10.253.11.6 , se requiere realizar la instalación de Visual Studio 2017 pero para poder descargar e instalar las librerías requiere internet.
+
+Gracias.
+
+Saludos.",viernes 1 de abril de 2022,viernes 1 de abril de 2022,Cerrado,,,,,,,,
+,2254060,ROSARIO GARCIA FELIPE,TELECOM,PERMISOS DE PUERTOS.ALTA,Buen día.    Se requieren los siguientes permisos para fire...,"Buen día.
+
+Se requieren los siguientes permisos para firewall de Ixtlahuaca:
+
+       IP ORIGEN                   IP DESTINO        PUERTO      DESCRIPCION
+Balanceador Netscaler       10.254.11.5        9002       Jaguar JDE PD
+Balanceador Netscaler       10.254.11.5        8089       Jaguar JDE PY
+Balanceador Netscaler       10.254.11.5        9097       Jaguar JDE ORCH
+
+Saludos y gracias.",viernes 1 de abril de 2022,lunes 4 de abril de 2022,Cerrado,,,,,,,,
+,2254052,LOPEZ GARCIA CARLOS,TELECOM,PERMISOS DE INTERNET.ALTA,"Me ayudan para agregar en la regla o grupo de reglas, de los...","Me ayudan para agregar en la regla o grupo de reglas, de los servidores de aplicaciones de Desarrollo de SW, que se puedan consultar las siguientes URLS, por favor
+
+https://www.google.com/recaptcha/
+https://recaptcha.google.com/recaptcha/",viernes 1 de abril de 2022,lunes 4 de julio de 2022,Cerrado,,,,,,,,
+
+Santiago, 20:46:06
